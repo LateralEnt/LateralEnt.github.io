@@ -5,6 +5,10 @@
 }
 #features1-h .mbr-header__subtext {
   text-align: center;
+  font-size: 18px;
+}
+#features1-h .mbr-section-title .mbr-header__text {
+  font-size: 36px;
 }
 #menu-g .mbr-brand__name {
   font-size: 16px;

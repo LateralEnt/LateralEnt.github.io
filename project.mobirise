@@ -34,7 +34,11 @@
               "text-align": "center"
             },
             ".mbr-header__subtext": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "18px"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "font-size": "36px"
             }
           },
           "_anchor": "features1-h",
@@ -62,8 +66,8 @@
             "showButtons": false
           },
           "headerAlign": "left",
-          "header": "NEW SITE UNDER CONSTRUCTION.<br><br>",
-          "subheader": "We'll be back soon.",
+          "header": "NEW SITE UNDER DEVELOPMENT<br><br>",
+          "subheader": "We'll be back soon",
           "media1": {
             "image": {
               "active": true,
