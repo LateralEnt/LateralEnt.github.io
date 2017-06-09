@@ -490,8 +490,14 @@ h6,
   text-align: right;
   font-size: 18px;
 }
+#header3-f H3 {
+  color: #0b5389;
+}
 #content1-g P {
   text-align: center;
+  color: #0b5389;
+}
+#features3-3 P {
   color: #0b5389;
 }
 #social-buttons4-k .mbr-section-title,
@@ -515,6 +521,176 @@ h6,
   color: #ffffff;
 }
 #contacts4-b STRONG {
+  color: #ffffff;
+}
+
+#header3-o .mbr-section-title,
+#header3-o .mbr-section-subtitle {
+  text-align: center;
+}
+#ext_menu-l .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-l .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-l .navbar-toggler {
+  color: #0b5389;
+}
+#ext_menu-l .close-icon::before,
+#ext_menu-l .close-icon::after {
+  background-color: #0b5389;
+}
+#ext_menu-l .link,
+#ext_menu-l .dropdown-item {
+  color: #0b5389;
+}
+#ext_menu-l .link {
+  font-size: 0.85rem;
+}
+#ext_menu-l .dropdown-item,
+#ext_menu-l .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#ext_menu-l .link:hover,
+#ext_menu-l .dropdown-item:hover,
+#ext_menu-l .link:focus,
+#ext_menu-l .dropdown-item:focus {
+  color: #0b5389;
+}
+#ext_menu-l .link[aria-expanded="true"],
+#ext_menu-l .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-l .nav-dropdown-sm .link:focus,
+#ext_menu-l .nav-dropdown-sm .link:hover,
+#ext_menu-l .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-l .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-l .navbar,
+#ext_menu-l .nav-dropdown-sm,
+#ext_menu-l .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-l .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-l .bg-color.transparent .link {
+  color: #0b5389;
+  transition: none;
+}
+#ext_menu-l .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-l .bg-color.transparent.opened .link:hover,
+#ext_menu-l .bg-color.transparent.opened .link:focus {
+  color: #0b5389;
+}
+#ext_menu-l .link[aria-expanded="true"],
+#ext_menu-l .dropdown-item[aria-expanded="true"] {
+  color: #0b5389!important;
+}
+#contacts4-m P {
+  text-align: left;
+  color: #ffffff;
+}
+#contacts4-m SPAN {
+  color: #ffffff;
+}
+#contacts4-m UL {
+  color: #0b5389;
+}
+#contacts4-m .btn {
+  font-family: 'Lato', sans-serif;
+}
+#contacts4-m B {
+  color: #ffffff;
+}
+#contacts4-m STRONG {
+  color: #ffffff;
+}
+
+#ext_menu-p .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-p .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-p .navbar-toggler {
+  color: #0b5389;
+}
+#ext_menu-p .close-icon::before,
+#ext_menu-p .close-icon::after {
+  background-color: #0b5389;
+}
+#ext_menu-p .link,
+#ext_menu-p .dropdown-item {
+  color: #0b5389;
+}
+#ext_menu-p .link {
+  font-size: 0.85rem;
+}
+#ext_menu-p .dropdown-item,
+#ext_menu-p .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#ext_menu-p .link:hover,
+#ext_menu-p .dropdown-item:hover,
+#ext_menu-p .link:focus,
+#ext_menu-p .dropdown-item:focus {
+  color: #0b5389;
+}
+#ext_menu-p .link[aria-expanded="true"],
+#ext_menu-p .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-p .nav-dropdown-sm .link:focus,
+#ext_menu-p .nav-dropdown-sm .link:hover,
+#ext_menu-p .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-p .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-p .navbar,
+#ext_menu-p .nav-dropdown-sm,
+#ext_menu-p .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-p .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-p .bg-color.transparent .link {
+  color: #0b5389;
+  transition: none;
+}
+#ext_menu-p .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-p .bg-color.transparent.opened .link:hover,
+#ext_menu-p .bg-color.transparent.opened .link:focus {
+  color: #0b5389;
+}
+#ext_menu-p .link[aria-expanded="true"],
+#ext_menu-p .dropdown-item[aria-expanded="true"] {
+  color: #0b5389!important;
+}
+#header3-s .mbr-section-title,
+#header3-s .mbr-section-subtitle {
+  text-align: center;
+}
+#contacts4-q P {
+  text-align: left;
+  color: #ffffff;
+}
+#contacts4-q SPAN {
+  color: #ffffff;
+}
+#contacts4-q UL {
+  color: #0b5389;
+}
+#contacts4-q .btn {
+  font-family: 'Lato', sans-serif;
+}
+#contacts4-q B {
+  color: #ffffff;
+}
+#contacts4-q STRONG {
   color: #ffffff;
 }
 
