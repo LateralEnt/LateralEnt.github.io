@@ -160,13 +160,13 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#0b5389"
+            "bgColor": "#ffffff"
           },
           "text": "<p>Lateral Enterprises are engaged in pharmaceuticals, nutraceuticals and healthcare and&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">have offices in Canada and the United Kingdom.</span></p><p><br></p><p><b>See some of our brands below.</b></p>",
           "_styles": {
             "P": {
               "text-align": "center",
-              "color": "#ffffff"
+              "color": "#0b5389"
             }
           }
         },
@@ -229,7 +229,7 @@
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Helping HIV patients access the latest HIV treatments.<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Coming soon</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Coming soon</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/asset-124x-600x159.png",
@@ -245,7 +245,7 @@
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "&nbsp;Helping cancer patients access expensive cancer drugs.<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Coming soon</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Coming soon</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -301,7 +301,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#dd1010",
+            "bgColor": "#475577",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
