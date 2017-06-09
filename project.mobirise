@@ -302,8 +302,8 @@
               "active": true
             }
           },
-          "text1": "<strong>ADDRESS</strong><br>Hygeia Building, 2nd Floor, 66-68 College Rd, Harrow, HA1 1BE, &nbsp;United Kingdom",
-          "text2": "Phone: +44 (203) 29 07826&nbsp;<br>\nFax: +1 (207) 117 3456",
+          "text1": "Hygeia Building, 2nd Floor, 66-68 College Rd, Harrow, HA1 1BE, United Kingdom<strong><br></strong><br><strong><br></strong><br>Hygeia Building, 2nd Floor, 66-68 College Rd, Harrow, HA1 1BE, &nbsp;United Kingdom",
+          "text2": "Phone: +44 (203) 29 07826&nbsp;<br>\nFax: +44 (207) 117 3456",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
         }
       ]
