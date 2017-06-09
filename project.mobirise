@@ -8,8 +8,10 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 19,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 29,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -27,6 +29,14 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            ".mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "features1-h",
           "_params": {
             "paddingTop": "4",
@@ -52,7 +62,7 @@
             "showButtons": false
           },
           "headerAlign": "left",
-          "header": "SITE UNDER CONSTRUCTION.<br><br>",
+          "header": "NEW SITE UNDER CONSTRUCTION.<br><br>",
           "subheader": "We'll be back soon.",
           "media1": {
             "image": {
@@ -76,7 +86,7 @@
             }
           },
           "title1": "Hepatitis C Medication",
-          "caption1": "Helping hepatitis C patients access the latest sofosbuvir based treatments.<br><br>",
+          "caption1": "Helping hepatitis C patients access the latest hep c cures, including the breakthrough sofosbuvir based treatments.<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://hepsolved.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -84,7 +94,7 @@
               "src": "@PROJECT_PATH@/assets/images/asset-24x-600x158.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "http://oncsolved.com",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -100,7 +110,7 @@
             }
           },
           "title2": "Cancer Medication",
-          "caption2": "Helping cancer patients access expensive cancer drugs.",
+          "caption2": "&nbsp;Helping cancer patients access expensive cancer drugs.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -108,7 +118,7 @@
               "src": "@PROJECT_PATH@/assets/images/hiv-logo4x-600x151.png",
               "class": "mbr-figure__img",
               "width": 600,
-              "link": "",
+              "link": "http://HIVsolved.com",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -237,10 +247,10 @@
             "hamburgerColor": "#ffffff",
             "transparent": false,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "logo": true,
             "showBrand": true,
-            "showButtons": false
+            "showButtons": true
           },
           "logo": {
             "image": {
@@ -260,18 +270,23 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"https://lateralenterprises.co.uk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Prescription Solutions</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CONTACT</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">TCONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact_Us\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a></li> "
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "contacts1-i",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -302,8 +317,210 @@
               "active": true
             }
           },
-          "text1": "Hygeia Building, 2nd Floor, 66-68 College Rd, Harrow, HA1 1BE, United Kingdom<br>",
-          "text2": "Phone: +44 (203) 29 07826&nbsp;<br>\nFax: +44 (207) 117 3456",
+          "text1": "<p><b>North America</b></p><p><span style=\"line-height: 1.7em;\">280 West Beaver Creek Rd, Unit #105, Richmond Hill, ON L4B 3Z1&nbsp;</span><span style=\"line-height: 1.7em;\">Canada</span></p><p><span style=\"line-height: 1.7em;\"><b>Phone: +1 (844) 5 SOLVED</b></span></p>",
+          "text2": "<b>Corporate</b><br><span style=\"line-height: 1.7em;\">Hygeia Building, 2nd Fl, 66-68 College Rd, Harrow, Middx HA1 1BE United Kingdom</span><br><b><span style=\"line-height: 1.7em;\">Phone: +44 (203) 29 07826&nbsp;</span><br></b><span style=\"line-height: 1.7em;\">Incorporated in England under company# 10390133).</span><br>",
+          "text3": "<ul class=\"mbr-contacts__list\"></ul>"
+        }
+      ]
+    },
+    "Contact_Us": {
+      "settings": {
+        "title": "Contact Us",
+        "meta_descr": "Want to get in contact? We'd love to hear from you."
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "CONTACT FORM",
+          "form": {
+            "action": "info@lateralenterprises.co.uk",
+            "alerts": {
+              "success": "Thanks for filling in the form. We'll be in touch shortly."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"twitter.com/hepsolved\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/hepsolved\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>         "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#dd1010",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Lateral Enterprises Ltd."
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-m",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/lateral-logo-1-370x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Lateral Enterprises",
+              "link": "https://lateralenterprises.co.uk",
+              "title": "Lateral Enterprises - site under construction",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-primary\" data-app-btn=\"true\" href=\"https://lateralenterprises.co.uk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Prescription Solutions</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">TCONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"Contact_Us\" data-toolbar=\"-mbrBtnMove\">CONTACT US</a></li> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#0b5389",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "letter",
+              "family": "MobiriseIcons",
+              "link": "mailto:info@lateralenterprises.co.uk",
+              "size": "20",
+              "newWindow": false,
+              "active": true
+            }
+          },
+          "text1": "<p><b>North America</b></p><p><span style=\"line-height: 1.7em;\">280 West Beaver Creek Rd, Unit #105, Richmond Hill, ON L4B 3Z1&nbsp;</span><span style=\"line-height: 1.7em;\">Canada</span></p><p><span style=\"line-height: 1.7em;\"><b>Phone: +1 (844) 5 SOLVED</b></span></p>",
+          "text2": "<b>Corporate</b><br><span style=\"line-height: 1.7em;\">Hygeia Building, 2nd Fl, 66-68 College Rd, Harrow, Middx HA1 1BE United Kingdom</span><br><b><span style=\"line-height: 1.7em;\">Phone: +44 (203) 29 07826&nbsp;</span><br></b><span style=\"line-height: 1.7em;\">Incorporated in England under company# 10390133).</span><br>",
           "text3": "<ul class=\"mbr-contacts__list\"></ul>"
         }
       ]
