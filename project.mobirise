@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 20,
+    "uniqCompNum": 21,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -122,7 +122,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HPrescription Solutions</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Prescription Solutions</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -149,7 +149,7 @@
             "showMeta": true
           },
           "title": "New site under construction",
-          "meta": "<br>We'll be back soon.<br><br>"
+          "meta": ""
         },
         {
           "_tags": [
@@ -160,12 +160,13 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#0b5389"
           },
-          "text": "<p>Lateral Enterprises are engaged &nbsp;in pharmaceuticals, nutraceuticals and healthcare and&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">have offices in Canada and the United Kingdom.</span></p><p><br></p><p>Below you can find some of our brands.</p>",
+          "text": "<p>Lateral Enterprises are engaged in pharmaceuticals, nutraceuticals and healthcare and&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">have offices in Canada and the United Kingdom.</span></p><p><br></p><p><b>See some of our brands below.</b></p>",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff"
             }
           }
         },
@@ -283,29 +284,31 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-c",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-k",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#dd1010",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
+            "overlayColor": "#222"
           },
-          "text": "SHARE THIS PAGE!"
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"twitter.com/hepsolved\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"facebook.com/hepsolved\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>         "
         },
         {
           "_tags": [
@@ -319,14 +322,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#0b5389",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Europe&nbsp;</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Hygeia House, 2nd Floor&nbsp;66-6, College Rd,&nbsp;Harrow HA1 1BE&nbsp;United Kingdom</span><br><b>Tel: +<a href=\"tel:+442031173456\">44 (203) 290 7826</a><br></b><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\"><br></span><br><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">North America</span><br><br>280 West Beaver Creek Rd, Unit 105<br>Richmond Hill, ON L4B 3Z1&nbsp;Canada<br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><b>Tel: +1 (844) 5 Solved</b></span><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://mobirise.com/\" class=\"text-primary\">Terms of Website Use</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-primary\">Privacy &amp; Security</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li></ul><p><br></p><p>HepSolved/HIVSolved/OncSolved are trading names of Lateral Enterprises Ltd, a company&nbsp;<span style=\"font-size: 0.875rem; line-height: 1.5;\">incorporated in England under number 10390133.</span></p>",
+          "text1": "<strong>Europe&nbsp;</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Hygeia House, 2nd Floor&nbsp;66-6, College Rd,&nbsp;Harrow HA1 1BE&nbsp;United Kingdom</span><br><b>Tel: +<a href=\"tel:+442031173456\" class=\"text-white\">44 (203) 290 7826</a><br></b><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\"><br></span><br><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">North America</span><br><br>280 West Beaver Creek Rd, Unit 105<br>Richmond Hill, ON L4B 3Z1&nbsp;Canada<br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><b>Tel: +1 (844) 5 Solved</b></span><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://mobirise.com/\" class=\"text-white\">Terms of Website Use</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-white\">Privacy &amp; Security</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li></ul><p><br></p><p>HepSolved/HIVSolved/OncSolved are trading names of Lateral Enterprises Ltd, a company&nbsp;<span style=\"font-size: 0.875rem; line-height: 1.5;\">incorporated in England under number 10390133.</span></p>",
           "form": {
             "title": "MESSAGE",
             "action": "info@lateralenterprises.co.uk",
@@ -355,17 +358,24 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "_styles": {
             "P": {
               "text-align": "left",
-              "color": "#0b5389"
+              "color": "#ffffff"
             },
             "SPAN": {
-              "color": "#0b5389"
+              "color": "#ffffff"
             },
             "UL": {
               "color": "#0b5389"
+            },
+            ".btn": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "B": {
+              "color": "#ffffff"
             }
           }
         }
@@ -518,7 +528,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">HPrescription Solutions</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Prescription Solutions</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
@@ -529,13 +539,20 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "color": "#0b5389"
+              "color": "#ffffff"
             },
             "SPAN": {
-              "color": "#0b5389"
+              "color": "#ffffff"
             },
             "UL": {
               "color": "#0b5389"
+            },
+            ".btn": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "B": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts4-i",
@@ -545,14 +562,14 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#0b5389",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Europe&nbsp;</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Hygeia House, 2nd Floor&nbsp;66-6, College Rd,&nbsp;Harrow HA1 1BE&nbsp;United Kingdom</span><br><b>Tel: +<a href=\"tel:+442031173456\">44 (203) 290 7826</a><br></b><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\"><br></span><br><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">North America</span><br><br>280 West Beaver Creek Rd, Unit 105<br>Richmond Hill, ON L4B 3Z1&nbsp;Canada<br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><b>Tel: +1 (844) 5 Solved</b></span><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://mobirise.com/\" class=\"text-primary\">Terms of Website Use</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-primary\">Privacy &amp; Security</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li></ul><p><br></p><p>HepSolved/HIVSolved/OncSolved are trading names of Lateral Enterprises Ltd, a company&nbsp;<span style=\"font-size: 0.875rem; line-height: 1.5;\">incorporated in England under number 10390133.</span></p>",
+          "text1": "<strong>Europe&nbsp;</strong><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">Hygeia House, 2nd Floor&nbsp;66-6, College Rd,&nbsp;Harrow HA1 1BE&nbsp;United Kingdom</span><br><b>Tel: +<a href=\"tel:+442031173456\" class=\"text-white\">44 (203) 290 7826</a><br></b><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\"><br></span><br><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">North America</span><br><br>280 West Beaver Creek Rd, Unit 105<br>Richmond Hill, ON L4B 3Z1&nbsp;Canada<br><span style=\"font-size: 0.875rem; line-height: 1.5;\"><b>Tel: +1 (844) 5 Solved</b></span><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://mobirise.com/\" class=\"text-white\">Terms of Website Use</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-white\">Privacy &amp; Security</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li></ul><p><br></p><p>HepSolved/HIVSolved/OncSolved are trading names of Lateral Enterprises Ltd, a company&nbsp;<span style=\"font-size: 0.875rem; line-height: 1.5;\">incorporated in England under number 10390133.</span></p>",
           "form": {
             "title": "MESSAGE",
             "action": "info@lateralenterprises.co.uk",
@@ -581,7 +598,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
         }
       ]
     }

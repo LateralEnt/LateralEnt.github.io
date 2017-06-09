@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -490,17 +492,29 @@ h6,
 }
 #content1-g P {
   text-align: center;
+  color: #ffffff;
+}
+#social-buttons4-k .mbr-section-title,
+#social-buttons4-k .btn-social {
+  color: #fff;
 }
 #contacts4-b P {
   text-align: left;
-  color: #0b5389;
+  color: #ffffff;
 }
 #contacts4-b SPAN {
-  color: #0b5389;
+  color: #ffffff;
 }
 #contacts4-b UL {
   color: #0b5389;
 }
+#contacts4-b .btn {
+  font-family: 'Lato', sans-serif;
+}
+#contacts4-b B {
+  color: #ffffff;
+}
+
 #form1-j .form-control-label {
   color: #232323;
 }
@@ -567,11 +581,17 @@ h6,
 }
 #contacts4-i P {
   text-align: left;
-  color: #0b5389;
+  color: #ffffff;
 }
 #contacts4-i SPAN {
-  color: #0b5389;
+  color: #ffffff;
 }
 #contacts4-i UL {
   color: #0b5389;
+}
+#contacts4-i .btn {
+  font-family: 'Lato', sans-serif;
+}
+#contacts4-i B {
+  color: #ffffff;
 }
