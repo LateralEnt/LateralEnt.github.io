@@ -194,8 +194,8 @@
           "_name": "footer1",
           "_anchor": "footer1-c",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
