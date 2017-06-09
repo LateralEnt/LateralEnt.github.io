@@ -47,7 +47,7 @@
             "showSubheader": true,
             "columns": "3",
             "showImages": true,
-            "showTitles": true,
+            "showTitles": false,
             "showCaptions": true,
             "showButtons": false
           },
