@@ -112,7 +112,7 @@
               "src": "@PROJECT_PATH@/assets/images/lateral-logo-370x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -505,7 +505,7 @@
               "src": "@PROJECT_PATH@/assets/images/lateral-logo-370x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -672,7 +672,7 @@
               "src": "@PROJECT_PATH@/assets/images/lateral-logo-370x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -929,7 +929,7 @@
               "src": "@PROJECT_PATH@/assets/images/lateral-logo-370x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "#top",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
