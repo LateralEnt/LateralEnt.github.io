@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LE",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -309,7 +309,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
-            "bgColor": "#475577",
+            "bgColor": "#0b5389",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -325,8 +325,8 @@
           "_name": "contacts4",
           "_anchor": "contacts4-b",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -547,8 +547,8 @@
           },
           "_anchor": "contacts4-m",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -747,8 +747,8 @@
           },
           "_anchor": "contacts4-q",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -971,8 +971,8 @@
           },
           "_anchor": "contacts4-i",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
