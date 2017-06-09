@@ -223,7 +223,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "hivsolved.com",
+              "link": "index.html",
               "alt": "HIVSolved",
               "title": "HIVSolved",
               "linkInNewWindow": false
@@ -239,7 +239,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "oncsolved.com",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
