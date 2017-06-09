@@ -376,6 +376,9 @@
             },
             "B": {
               "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
             }
           }
         }
@@ -552,6 +555,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             "B": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
               "color": "#ffffff"
             }
           },

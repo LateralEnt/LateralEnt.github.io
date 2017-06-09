@@ -514,6 +514,9 @@ h6,
 #contacts4-b B {
   color: #ffffff;
 }
+#contacts4-b STRONG {
+  color: #ffffff;
+}
 
 #form1-j .form-control-label {
   color: #232323;
@@ -593,5 +596,8 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #contacts4-i B {
+  color: #ffffff;
+}
+#contacts4-i STRONG {
   color: #ffffff;
 }
