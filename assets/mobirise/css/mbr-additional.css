@@ -777,6 +777,7 @@ h6,
 #contacts4-i STRONG {
   color: #a38f84;
 }
+
 #ext_menu-u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -861,4 +862,11 @@ h6,
 }
 #pricing-table2-16 .mbr-price-figure {
   font-size: 36px;
+  text-align: right;
+}
+#pricing-table2-16 .mbr-plan-title SPAN {
+  text-align: right;
+  color: #c1c1c1;
+  font-family: 'Lora', serif;
+  font-size: 14px;
 }
