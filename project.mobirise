@@ -221,7 +221,7 @@
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Helping hepatitis C patients access the latest hep c cures, including the breakthrough sofosbuvir based treatments.<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https//hepsolved.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"hepsolved.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/hiv-logo4x-600x151.png",
