@@ -159,25 +159,30 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#0b5389"
+            }
+          },
           "_anchor": "content1-g",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p>Lateral Enterprises are engaged in pharmaceuticals, nutraceuticals and healthcare and&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">have offices in Canada and the United Kingdom.</span></p><p><br></p><p><b>See some of our brands below.</b></p>",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "color": "#0b5389"
-            }
-          }
+          "text": "<p>Lateral Enterprises are engaged in pharmaceuticals, nutraceuticals and healthcare and&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">have offices in Canada and the United Kingdom.</span></p><p><br></p><p><b>See some of our brands below.</b></p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#0b5389"
+            }
+          },
           "_anchor": "features3-3",
           "_params": {
             "paddingTop": "0",
@@ -232,14 +237,14 @@
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Helping HIV patients access the latest HIV treatments.<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Coming soon</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/asset-124x-600x159.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "index.html",
+              "link": "https://lateralent.github.io/OncSolved/",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -248,7 +253,7 @@
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "&nbsp;Helping cancer patients access expensive cancer drugs.<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"index.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Coming soon</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://lateralent.github.io/OncSolved/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -284,12 +289,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#0b5389"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -323,6 +323,28 @@
             "Theme"
           ],
           "_name": "contacts4",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "UL": {
+              "color": "#0b5389"
+            },
+            ".btn": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "B": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#a38f84"
+            }
+          },
           "_anchor": "contacts4-b",
           "_params": {
             "paddingTop": "1",
@@ -366,29 +388,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "color": "#ffffff"
-            },
-            "UL": {
-              "color": "#0b5389"
-            },
-            ".btn": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            },
-            "B": {
-              "color": "#ffffff"
-            },
-            "STRONG": {
-              "color": "#a38f84"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>"
         }
       ]
     },
@@ -803,6 +803,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-j",
           "_params": {
             "labelsColor": "#232323",
@@ -848,12 +853,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
         },
         {
           "_inherit": "menu",
